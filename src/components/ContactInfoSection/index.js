@@ -1,28 +1,16 @@
 import React, { useState } from "react";
 import { FaMapMarkerAlt,FaPhone,FaEnvelope } from "react-icons/fa";
 import {
-  InfoWrapper,
-  Column1,
-  Column2,
-  ArrowForward,
-  ArrowRight,
-  
-  HeroBg,
   HeroG4,
   HeroMd4,
   Shadowmd,
   FeaturedBox,
   FeaturedBoxicon,
   FeaturedBoxtextcenter,
-
-  HeroBtnWrapper,
   HeroContainer,
-  HeroContent,
   HeroH1,
   HeroP,
   HeroPmb,
-  ImgWrap,
-  Img,
 } from "./ContactInfoElements.js";
 import { Button } from "../ButtonElements";
 

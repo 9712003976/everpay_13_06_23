@@ -1,28 +1,7 @@
 import React, { useState } from "react";
-import { FaMapMarkerAlt,FaPhone,FaEnvelope,FaFacebookF,FaTwitter,FaGoogle,FaLinkedinIn,FaYoutube,FaInstagram } from "react-icons/fa";
+import { FaFacebookF,FaTwitter,FaGoogle,FaLinkedinIn,FaYoutube,FaInstagram } from "react-icons/fa";
 import {
-  InfoWrapper,
-  Column1,
-  Column2,
-  ArrowForward,
-  ArrowRight,
-  
-  HeroBg,
-  HeroG4,
-  HeroMd4,
-  Shadowmd,
-  FeaturedBox,
-  FeaturedBoxicon,
-  FeaturedBoxtextcenter,
-
-  HeroBtnWrapper,
   HeroContainer,
-  HeroContent,
-  HeroH1,
-  HeroP,
-  HeroPmb,
-  ImgWrap,
-  Img,
   TextCenterPy5,
   HeroH2,
   PTag,
